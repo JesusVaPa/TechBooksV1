@@ -1,0 +1,6 @@
+C:\Users\vapaj\Documents\Jesus\Projects\WebServer\Chapter1_Examples\TechBooksV1\TechBooks.Models\bin\Debug\TechBooks.Models.dll
+C:\Users\vapaj\Documents\Jesus\Projects\WebServer\Chapter1_Examples\TechBooksV1\TechBooks.Models\bin\Debug\TechBooks.Models.pdb
+C:\Users\vapaj\Documents\Jesus\Projects\WebServer\Chapter1_Examples\TechBooksV1\TechBooks.Models\obj\Debug\TechBooks.Models.csproj.AssemblyReference.cache
+C:\Users\vapaj\Documents\Jesus\Projects\WebServer\Chapter1_Examples\TechBooksV1\TechBooks.Models\obj\Debug\TechBooks.Models.csproj.CoreCompileInputs.cache
+C:\Users\vapaj\Documents\Jesus\Projects\WebServer\Chapter1_Examples\TechBooksV1\TechBooks.Models\obj\Debug\TechBooks.Models.dll
+C:\Users\vapaj\Documents\Jesus\Projects\WebServer\Chapter1_Examples\TechBooksV1\TechBooks.Models\obj\Debug\TechBooks.Models.pdb
