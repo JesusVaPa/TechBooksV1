@@ -7,3 +7,4 @@
 ![AddAuthor page](./repos/AddAuthor.png)
 ![AddBook page](./repos/AddBook.png)
 ![AddCategory page](./repos/AddCategory.png)
+![DB diagram](./repos/DBdiagram.png)
